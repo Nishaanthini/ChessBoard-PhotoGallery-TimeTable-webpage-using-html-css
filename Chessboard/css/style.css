@@ -1,0 +1,16 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin:30px 330px;
+
+}
+.w{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+}
+.b{
+    height:70px;
+    width:70px;
+    background-color: black;
+}
